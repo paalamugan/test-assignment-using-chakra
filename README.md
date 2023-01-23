@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Test Assignment Developed using Chakra UI and Nextjs
 
 ![image](https://user-images.githubusercontent.com/42642576/214172584-b3a359d2-b8fe-421e-9a92-dc360cb7cf08.png)
 
